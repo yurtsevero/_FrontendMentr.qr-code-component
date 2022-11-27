@@ -5,6 +5,7 @@
   padding: 0px;
   box-sizing: border-box;
 }
+
 body {
   font-family: "Outfit", sans-serif;
   background-color: #D5E1EF;
@@ -13,7 +14,7 @@ body {
   align-items: center;
   width: 100vw;
   min-height: 100vh;
-  font-size: 1.067rem;
+  font-size: 15px;
 }
 .container {
   width: 320px;
